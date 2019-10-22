@@ -11,7 +11,7 @@ Sense is a Kibana app. To get up and running you will first need to download Kib
 Once Kibana is installed, you can simply install Sense running the following command from your Kibana folder:
 
 ```
-$ ./bin/kibana plugin --install elastic/sense
+$ ./bin/kibana --plugin install elastic/sense
 ```
 
 Now start your Kibana server by running:
